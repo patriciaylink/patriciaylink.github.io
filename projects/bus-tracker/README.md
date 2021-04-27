@@ -17,4 +17,4 @@ For questions about this project, contact me at patricia.y.link@gmail.com.
 There could be a button added to start tracking, instead of automatically on page load.  The map colors could also be muted (grayscale) so that the bus markers are more easily visible.  This could also be expanded to include other bus routes, and/or give users a way to select their bus route of interest.
 
 # License information
-Currently unlicensed
+See LICENSE file for more information regarding the MIT License
