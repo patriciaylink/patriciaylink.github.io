@@ -1,0 +1,54 @@
+/* 
+Font
+Color 
+Navigation
+Image
+Styled links 
+Use of grid layout, which will be assessed by looking at the link to your CSS file
+*/
+
+.grid-container {
+  display: grid;
+  grid-gap: 20px;
+  background-color: lightgray;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grid-container > div {
+  background-color: #E5F8EE;
+  text-align: left;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+.item2 {
+  grid-column-start: 4;
+  grid-column-end: 10;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #1F7D76;
+}
+/* visited link */
+a:visited {
+  color: #AA99AD;
+}
+/* mouse over link */
+a:hover {
+  color: #E47D76;
+}
+
