@@ -17,4 +17,4 @@ For questions about this project, contact me at patricia.y.link@gmail.com.
 It would also be fun to introduce other characters to this game.
 
 # License information
-Currently unlicensed
+See LICENSE file for more information regarding the MIT License
